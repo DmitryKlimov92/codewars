@@ -13,5 +13,5 @@ Go show some truth who's boss!
 
 //SOLUTION
 function ifChuckSaysSo(){
-    return true;
+    return !true;
 }
