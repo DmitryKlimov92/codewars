@@ -24,5 +24,34 @@ var output = "";
 let input = "javascript is awesome";
 let output = "";
 for (let i = 0; i < input.length; i++) {
-    console.log("В этом зоопарке есть " + input[i] + ".");
+    if (input.i = "a") {
+        "a" = "4"
+    };
+    else if (input.i = "e") {
+        "e" = "3"
+    };
+    else if (input.i = "i") {
+        "i" = "1"
+    };
+    else (input.i = "i") {
+        "o" = "0"
+    };
+    output =+ output + input.i;
+    console.log(output + ".");
 }
+
+/*
+
+var animals = ["лев", "фламинго", "белый медведь", "удав"];
+for (var i = 0; i < animals.length; i++) {
+    console.log("В этом зоопарке есть " + animals[i] + ".");
+}
+
+let Alphabet = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя";
+let randomString = "";
+while (randomString.length < 10) {
+    randomString += Alphabet[Math.floor(Math.random() * Alphabet.length)];
+}
+console.log(randomString);
+
+ */
